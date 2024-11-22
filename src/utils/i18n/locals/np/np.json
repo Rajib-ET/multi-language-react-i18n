@@ -1,0 +1,5 @@
+{
+    "welcomeMessage_one": "तपाईंसँग {{count}} सूचना छ",
+    "welcomeMessage_other": "तपाईंसँग {{count}} वटा सूचनाहरू छन्",
+    "welcome": "स्वागतम  , <1>user</1>!"
+}
